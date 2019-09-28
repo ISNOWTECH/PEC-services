@@ -1,0 +1,7 @@
+{
+  "name": "PEC-driver-app",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
